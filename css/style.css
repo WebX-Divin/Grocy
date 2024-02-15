@@ -52,35 +52,6 @@ section {
   color: #bac34e;
 }
 
-.title {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  font-size: 2.5rem;
-  margin-bottom: 3rem;
-  padding: 1.2rem 0;
-  border-bottom: 0.1rem solid rgba(0, 0, 0, 0.1);
-  color: #222;
-}
-
-.title span {
-  color: #bac34e;
-  padding-left: 0.7rem;
-}
-
-.title a {
-  margin-left: auto;
-  color: #666;
-  font-size: 1.5rem;
-}
-
-.title a:hover {
-  color: #bac34e;
-}
-
 .btn {
   margin-top: 1rem;
   display: inline-block;
